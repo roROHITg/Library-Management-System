@@ -18,6 +18,22 @@ The Library Management System is a simple console-based application written in C
 * Save book and student data to CSV files for persistence across sessions.
 * Load existing data from CSV files on program startup.
 
+## How to Use
+
+1. **Compile the Code:**
+   - Clone the repository: `git clone https://github.com/roROHITg/Library-Management-System.git`
+   - Navigate to the project directory: `cd Library-Management-System`
+   - Compile the code: `gcc LibraryManagement.c`
+
+2. **Run the Program:**
+   - Execute the compiled program: `./a.exe`
+
+3. **Interact with the Menu:**
+   - Use the menu to perform various library management operations.
+   - Follow the on-screen instructions for each option.
+
+4. **Enjoy Managing Your Library!**
+
 ## Contributions
 Contributions are welcome! If you have suggestions, find bugs, or want to add new features, please open an issue or submit a pull request.
 
