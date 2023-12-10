@@ -20,3 +20,6 @@ The Library Management System is a simple console-based application written in C
 
 ## Contributions
 Contributions are welcome! If you have suggestions, find bugs, or want to add new features, please open an issue or submit a pull request.
+
+## License
+This Library Management System is open-source and available under the [MIT License](https://www.mit.edu/~amini/LICENSE.md).
