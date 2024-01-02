@@ -21,9 +21,18 @@ The Library Management System is a simple console-based application written in C
 ## How to Use
 
 1. **Compile the Code:**
-   - Clone the repository: `git clone https://github.com/roROHITg/Library-Management-System.git`
-   - Navigate to the project directory: `cd Library-Management-System`
-   - Compile the code: `gcc LibraryManagement.c`
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/roROHITg/Library-Management-System.git
+     ```
+   - Navigate to the project directory:
+     ```bash
+     cd Library-Management-System
+     ```
+   - Compile the code:
+     ```bash
+     gcc LibraryManagement.c
+     ```
 
 2. **Run the Program:**
    - Execute the compiled program: `./a.exe`
